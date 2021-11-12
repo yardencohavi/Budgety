@@ -5,7 +5,6 @@ Demo: yardencohavi.github.io/budgety/
 
 ## Table Of Contents
 - [Budgety](#loop-machine)
-    - [To run the app, please enter the following commands in this order:](#to-run-the-app-please-enter-the-following-commands-in-this-order)
   - [Table Of Contents](#table-of-contents)
   - [Screenshot](#screenshot)
   - [Tech stack](#tech-stack)
