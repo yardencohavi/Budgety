@@ -15,6 +15,6 @@ Demo: yardencohavi.github.io/budgety/
 
 ## Tech stack
 1. HTML
-2. SCSS
+2. CSS
 3. JAVASCRIPT
 
