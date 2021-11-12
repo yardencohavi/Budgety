@@ -1,7 +1,7 @@
 # Budgety
 This app helps you manage and keep track of your daily expenses and income each month by entering them into a table.
 
-Demo: yardencohavi.github.io/budgety/
+Demo: https://yardencohavi.github.io/Budgety/
 
 ## Table Of Contents
 - [Budgety](#loop-machine)
